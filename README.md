@@ -1,4 +1,4 @@
-# Hi there, I'm Erick Bandinelli 👋
+# Hi there, I'm Erick Oliveira 👋
 
 **Senior Frontend Engineer | Software Architect | AI Enthusiast**
 
