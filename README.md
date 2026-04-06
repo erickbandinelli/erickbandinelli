@@ -26,11 +26,6 @@ With over **13 years of experience** in the software industry, I specialize in b
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickbandinelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickbandinelli&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div align="center">
   <br>
   <img alt="JavaScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="TypeScript" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
