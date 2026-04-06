@@ -38,5 +38,5 @@ With over **13 years of experience** in the software industry, I specialize in b
 ---
 
 ### 💬 Let's Connect
-* **LinkedIn:** [linkedin.com/in/erickbandinelli](https://www.linkedin.com/in/erickbandinelli)
+* **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/erick-de-oliveira-b592228b/)
 * **Portfolio/Company:** [NX Technologies INC](https://github.com/erickbandinelli)
